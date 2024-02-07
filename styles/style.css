@@ -1,0 +1,93 @@
+header {
+  display: flex;
+  padding: 94px 24px;
+  align-items: center;
+}
+
+.header__links-list {
+  display: flex;
+  gap: 34px;
+  padding-left: 25px;
+  padding-right: 45px;
+  font-size: 18px;
+}
+
+.header__links-list-item {
+  list-style: circle;
+}
+
+.header__link {
+  text-decoration: none;
+}
+
+.header__links-list-item_no-bullit {
+  list-style: none;
+}
+
+.header__link_active {
+  border: 0;
+}
+
+.header__logo {
+  width: 130px;
+  height: 105px;
+}
+
+address {
+  padding-left: 197px;
+  font-size: 18px;
+  line-height: 24px;
+  font-style: normal;
+}
+
+.tel {
+  text-decoration: none;
+}
+
+.overlay {
+    background-color: rgb(0 0 0 / 0.5);
+    height: 100%;
+          
+}
+
+.cover {
+    height: 757px;
+    background-image: url(../images/cover.jpg);
+    background-size: cover;
+    
+    
+}
+
+  h1 {
+    font-weight: bold;
+    font-size: 100px;
+    text-transform: uppercase;
+    color: white;    
+    padding-top: 162px;
+    padding-left: 50px;
+    letter-spacing: 30px;
+    line-height: 125px;
+  
+    
+  }
+
+  .tebe {
+     padding-left: 286px;
+     
+  }
+
+  .nado {
+     padding-left: 585px;
+  }
+
+  .no {
+    letter-spacing: 60px;
+ }
+
+ .be {
+    letter-spacing: 60px;
+ }
+
+ .ado {
+    padding-left: 25px;
+ }
